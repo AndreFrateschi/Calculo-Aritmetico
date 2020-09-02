@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "operadoresAritimeticos", "operadoresAritimeticos\operadoresAritimeticos.csproj", "{39F3F4B3-3DC9-4F19-91F5-E9382873723A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39F3F4B3-3DC9-4F19-91F5-E9382873723A}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{39F3F4B3-3DC9-4F19-91F5-E9382873723A}.Debug|anycpu.Build.0 = Debug|anycpu
+		{39F3F4B3-3DC9-4F19-91F5-E9382873723A}.Release|anycpu.ActiveCfg = Release|anycpu
+		{39F3F4B3-3DC9-4F19-91F5-E9382873723A}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
